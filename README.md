@@ -23,7 +23,10 @@ The model is trained and evaluated using the **Cross-modal Face-Periocular Datas
    - Visit [Kaggle](https://www.kaggle.com) and log in to your account.
    - After logging in, go to your **Account** page by clicking on your profile icon at the top-right corner, then select **My Account**.
    - Scroll down to the **API** section and click on **Create New API Token**. This will automatically download a file called `kaggle.json` to your local machine.
-   - Upload the kaggle.json file to your Google Colab environment
+   - Upload the kaggle.json file to your Google Colab environment.
+     
+3. **Run the Jupyter Notebook:**
+   Open the `Siamese_mViT_Face_Recognition.ipynb` file in Google Colab or Jupyter Notebook and execute the cells to train and evaluate the model.
   
 ## Contact
 For any questions or inquiries, feel free to reach out to me at:
@@ -34,9 +37,6 @@ For any questions or inquiries, feel free to reach out to me at:
 If you use this code or dataset in your research, please cite this repository.
 
 
-
-3. **Run the Jupyter Notebook:**
-   Open the `Siamese_mViT_Face_Recognition.ipynb` file in Google Colab or Jupyter Notebook and execute the cells to train and evaluate the model.
 
    
    
