@@ -17,7 +17,7 @@ The model is trained and evaluated using the **Cross-modal Face-Periocular Datas
    To get started, clone the repository to your local machine or use it directly on Google Colab.
 
    ```bash
-   git clone https://github.com/your-username/Siamese-mViT-FaceRecognition.git
+   git clone https://github.com/Kanchon-Gharami/Siamese-mViT-FaceRecognition.git
    ```
 
 2. **Prepare Kaggle API Key:**
