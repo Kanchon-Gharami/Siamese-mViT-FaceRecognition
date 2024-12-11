@@ -22,11 +22,13 @@ The model is trained and evaluated using the **Cross-modal Face-Periocular Datas
 
 2. **Prepare Kaggle API Key:**
    The model requires the Cross-modal Face-Periocular Dataset, which can be downloaded from Kaggle. You need to provide your Kaggle API key (kaggle.json) for this.
-   - Go to your Kaggle Account and download the kaggle.json file.
+   - Visit [Kaggle](https://www.kaggle.com) and log in to your account.
+   - After logging in, go to your **Account** page by clicking on your profile icon at the top-right corner, then select **My Account**.
+   - Scroll down to the **API** section and click on **Create New API Token**. This will automatically download a file called `kaggle.json` to your local machine.
    - Upload the kaggle.json file to your Google Colab environment
 
 3. **Run the Jupyter Notebook:**
-   Open the Siamese_mViT_Face_Recognition.ipynb file in Google Colab or Jupyter Notebook and execute the cells to train and evaluate the model.
+   Open the `Siamese_mViT_Face_Recognition.ipynb` file in Google Colab or Jupyter Notebook and execute the cells to train and evaluate the model.
 
    
    
